@@ -2,3 +2,6 @@ User-agent:*
 Allow:/picture/fun/qt/dianyaocf.jpeg$
 Disallow:/
 Disallow:*?*
+
+User-agent:DingTalkBot
+Allow:*?*
